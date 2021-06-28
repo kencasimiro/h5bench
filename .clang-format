@@ -50,10 +50,6 @@ ObjCBlockIndentWidth: 4
 ReflowComments:  true
 SortIncludes:    false
 StatementMacros:
-  - FUNC_ENTER
-  - FUNC_LEAVE
-  - PGOTO_DONE
-  - PGOTO_ERROR
 #llvm10: TypenameMacros:
 #llvm10:   - STACK_OF
 #llvm10:   - LIST
